@@ -1,6 +1,12 @@
 ## Hi 👋, I'm Eray Türkay
 
-Hello! I'm Eray Türkay, a 22 year old software developer living in Manisa, Turkey. I've been passionate about coding since I was 10 years old, and for the past 7 years, I've been developing software professionally. I started my journey with desktop applications, and over time, I have expanded my skills in web development, embedded systems, and cloud technologies. Every new project has been a journey of learning and exploration that fuels my curiosity in software.
+I'm an open-source developer doing my best to contribute and build tools that (hopefully) make your life a bit easier. If you’ve found my work helpful or interesting, consider buying me a coffee to show your support! 💛
+
+Every little bit helps—it keeps me motivated and gives me more time to improve existing projects and create new ones. Thanks a ton! 🙌
+
+👉 [Buy Me a Coffee - @turkaysoftware](https://buymeacoffee.com/turkaysoftware)
+
+![Buy Me a Coffee - @turkaysoftware](https://github.com/user-attachments/assets/49bd55a0-254c-4848-9b43-2c243b018150)
 
 - 🔭 I’m currently working on **[TS Wizard](https://github.com/turkaysoftware/tswizard)**, **[Astel](https://github.com/turkaysoftware/astel)**, **[Glow](https://github.com/turkaysoftware/glow)**, **[Vimera](https://github.com/turkaysoftware/vimera)** and **[Yamira](https://github.com/turkaysoftware/yamira)**
 - 🌱 I’m currently learning **Modern Software Architectures** and **WinUI**
