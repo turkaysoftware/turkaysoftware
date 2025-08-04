@@ -8,7 +8,7 @@ Every little bit helps—it keeps me motivated and gives me more time to improve
 
 ![Buy Me a Coffee - turkaysoftware](https://github.com/user-attachments/assets/e2b6d354-d5a4-4ff3-9648-88510a59818c)
 
-- 🔭 I’m currently working on **[TS Wizard](https://github.com/turkaysoftware/tswizard)**, **[Astel](https://github.com/turkaysoftware/astel)**, **[Glow](https://github.com/turkaysoftware/glow)**, **[Vimera](https://github.com/turkaysoftware/vimera)**, **[Yamira](https://github.com/turkaysoftware/yamira)** and **[Encryphix](https://github.com/turkaysoftware/encryphix)**
+- 🔭 I’m currently working on **[TS Wizard](https://github.com/turkaysoftware/tswizard)**, **[Astel](https://github.com/turkaysoftware/astel)**, **[Encryphix](https://github.com/turkaysoftware/encryphix)**, **[Glow](https://github.com/turkaysoftware/glow)**, **[VCardix](https://github.com/turkaysoftware/vcardix)**, **[Vimera](https://github.com/turkaysoftware/vimera)** and **[Yamira](https://github.com/turkaysoftware/yamira)**
 - 🌱 I’m currently learning **Modern Software Architectures** and **WinUI**
 - 📫 How to reach me: **[Türkay Software - Contact](https://www.turkaysoftware.com/contact)**
 - ⚡ Fun fact: **No matter how many patches you make, the bugs won't stop 😅.**
