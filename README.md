@@ -1,4 +1,4 @@
-## Hi 👋, I'm Eray Türkay
+## Hi 👋, I'm Eray.
 
 **_You can support me by donating to the address below so that I can continue my work._**
 
