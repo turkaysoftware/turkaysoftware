@@ -2,9 +2,7 @@
 
 **_You can support me by donating to the address below so that I can continue my work._**
 
-**[Buy Me a Coffee - turkaysoftware](https://buymeacoffee.com/turkaysoftware)**
-
-<img width="150" height="150" alt="Buy Me a Coffee - turkaysoftware" src="https://github.com/user-attachments/assets/9987c7dc-f8dd-42ab-a7f9-d8a4fca2e3d5" />
+**[DONATE LINK](https://buymeacoffee.com/turkaysoftware)**
 
 - 🔭 I’m currently working on **[TS Wizard](https://github.com/turkaysoftware/tswizard)**, **[Astel](https://github.com/turkaysoftware/astel)**, **[Encryphix](https://github.com/turkaysoftware/encryphix)**, **[Glow](https://github.com/turkaysoftware/glow)**, **[VCardix](https://github.com/turkaysoftware/vcardix)**, **[Vimera](https://github.com/turkaysoftware/vimera)** and **[Yamira](https://github.com/turkaysoftware/yamira)**
 - 🌱 I’m currently learning **Modern Software Architectures** and **WinUI**
