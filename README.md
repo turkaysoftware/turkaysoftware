@@ -6,7 +6,6 @@ An Open Source Application Developer specializing in C# and the Windows Kernel. 
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=167C33&label=TOTAL%20STARS&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fturkaysoftware" />
   <img src="https://img.shields.io/github/followers/turkaysoftware?style=for-the-badge&color=DF313F&label=FOLLOWERS" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=366194&label=REPOSITORIES&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fturkaysoftware" />
-  <img src="https://img.shields.io/badge/LICENSE-MIT%20%2F%20GPL-17796E?style=for-the-badge" />
 </p>
 
 ---
