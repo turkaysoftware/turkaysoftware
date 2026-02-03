@@ -23,14 +23,14 @@ If you find my projects helpful and want to support the development of open-sour
 ### 🚀 Active Projects
 | Project | Status | Description |
 | :--- | :--- | :--- |
-| **[TS Wizard](https://github.com/turkaysoftware/tswizard)** | ✅ Active | Advanced system management and maintenance utility. |
-| **[Astel](https://github.com/turkaysoftware/astel)** | ✅ Active | Modern and high-performance software solution. |
-| **[Encryphix](https://github.com/turkaysoftware/encryphix)** | ✅ Active | Secure data encryption and privacy management. |
-| **[Glow](https://github.com/turkaysoftware/glow)** | ✅ Active | Comprehensive system information and analysis tool. |
-| **[VCardix](https://github.com/turkaysoftware/vcardix)** | ✅ Active | Modern digital business card management system. |
-| **[Vimera](https://github.com/turkaysoftware/vimera)** | ✅ Active | Advanced system and performance optimization tool. |
-| **[Yamira](https://github.com/turkaysoftware/yamira)** | ✅ Active | Next-generation software architecture project. |
-| **[Zafuse](https://github.com/turkaysoftware/zafuse)** | ✨ New | High-performance and modern data handling solution. |
+| **[TS Wizard](https://github.com/turkaysoftware/tswizard)** | ✅ Actively Being Developed | Advanced system management and maintenance utility. |
+| **[Astel](https://github.com/turkaysoftware/astel)** | ✅ Actively Being Developede | Modern and high-performance software solution. |
+| **[Encryphix](https://github.com/turkaysoftware/encryphix)** | ✅ Actively Being Developed | Secure data encryption and privacy management. |
+| **[Glow](https://github.com/turkaysoftware/glow)** | ✅ Actively Being Developed | Comprehensive system information and analysis tool. |
+| **[VCardix](https://github.com/turkaysoftware/vcardix)** | ✅ Actively Being Developed | Modern digital business card management system. |
+| **[Vimera](https://github.com/turkaysoftware/vimera)** | ✅ Actively Being Developed | Advanced system and performance optimization tool. |
+| **[Yamira](https://github.com/turkaysoftware/yamira)** | ✅ Actively Being Developed | Next-generation software architecture project. |
+| **[Zafuse](https://github.com/turkaysoftware/zafuse)** | ✨ New And Actively Being Developed | High-performance and modern data handling solution. |
 
 ---
 
