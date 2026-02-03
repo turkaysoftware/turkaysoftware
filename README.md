@@ -1,17 +1,71 @@
-## Hi 👋, I'm Eray.
+# Hi 👋, I'm Eray.
 
-**_You can support me by donating to the address below so that I can continue my work._**
+An Open Source Application Developer specializing in C# and the Windows Kernel. Contrary to popular belief, we have much more experience.
 
-**[DONATE LINK](https://buymeacoffee.com/turkaysoftware)**
+<p align="left">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=167C33&label=TOTAL%20STARS&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fturkaysoftware" />
+  <img src="https://img.shields.io/github/followers/turkaysoftware?style=for-the-badge&color=DF313F&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=366194&label=REPOSITORIES&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fturkaysoftware" />
+  <img src="https://img.shields.io/badge/LICENSE-MIT%20%2F%20GPL-17796E?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on **[TS Wizard](https://github.com/turkaysoftware/tswizard)**, **[Astel](https://github.com/turkaysoftware/astel)**, **[Encryphix](https://github.com/turkaysoftware/encryphix)**, **[Glow](https://github.com/turkaysoftware/glow)**, **[VCardix](https://github.com/turkaysoftware/vcardix)**, **[Vimera](https://github.com/turkaysoftware/vimera)** and **[Yamira](https://github.com/turkaysoftware/yamira)**
-- 🌱 I’m currently learning **Modern Software Architectures** and **WinUI**
-- 📫 How to reach me: **[Türkay Software - Contact](https://www.turkaysoftware.com/contact)**
+---
+
+### ☕ Support My Work
+If you find my projects helpful and want to support the development of open-source, high-performance software, you can buy me a coffee! Your contributions help me keep these tools updated, secure, and free for everyone.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-DF313F?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/turkaysoftware)
+
+**Your support is the fuel behind new features and future projects!** 🚀
+
+---
+
+### 🚀 Active Projects
+| Project | Status | Description |
+| :--- | :--- | :--- |
+| **[TS Wizard](https://github.com/turkaysoftware/tswizard)** | 🛠️ Active | Advanced system management and maintenance utility. |
+| **[Astel](https://github.com/turkaysoftware/astel)** | 🛠️ Active | Modern and high-performance software solution. |
+| **[Encryphix](https://github.com/turkaysoftware/encryphix)** | 🔒 Active | Secure data encryption and privacy management. |
+| **[Glow](https://github.com/turkaysoftware/glow)** | ✅ Stable | Comprehensive system information and analysis tool. |
+| **[VCardix](https://github.com/turkaysoftware/vcardix)** | 📇 Active | Modern digital business card management system. |
+| **[Vimera](https://github.com/turkaysoftware/vimera)** | 🛠️ Dev | Advanced system and performance optimization tool. |
+| **[Yamira](https://github.com/turkaysoftware/yamira)** | 🛠️ Dev | Next-generation software architecture project. |
+| **[Zafuse](https://github.com/turkaysoftware/zafuse)** | ✨ New | High-performance and modern data handling solution. |
+
+---
+
+---
+
+### 🎯 Technical Skills
+
+- **Programming Languages**
+  <p align="left">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </p>
+
+- **Libraries & Frameworks**
+  ` .NET Framework ` ` jQuery ` ` Ajax ` ` Bootstrap ` ` WinUI `
+
+- **Developer Tools & Infrastructure**
+  <p align="left">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
+  </p>
+
+- **Expertise**
+  - 🖥️ **UI/UX:** Desktop (WinUI) and Web UI Development.
+  - 🔍 **SEO & Security:** Performance Optimization, Website Security, and Cloudflare Configuration.
+  - ⚙️ **Server:** Server Performance Enhancement, cPanel & Plesk Management.
+
+---
+
+### 🛠️ Career & Learning
+- 🌱 Currently learning **Modern Software Architectures** and **WinUI**.
+- 📫 Reach me at: **[Türkay Software - Contact](https://www.turkaysoftware.com/contact)**.
 - ⚡ Fun fact: **No matter how many patches you make, the bugs won't stop 😅.**
-
-## 🎯 Technical Skills
-
- - **Programming Languages:** C#, PHP, SQL, JavaScript, JSON/XML, CSS 3/HTML 5
- - **Libraries:** .NET Framework, jQuery, Ajax, Bootstrap
- - **Developer Tools:** Git, GitHub, VS Code, Visual Studio, XAMPP, Laragon, phpMyAdmin, Filezilla
- - **Other Specialties:** Desktop and Web UI Development Expertise, SEO Expertise, cPanel - Plesk Panel Expertise, Cloudflare Configuration Expertise, Website Security, Optimization, Server Performance Enhancement
