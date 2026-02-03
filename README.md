@@ -20,10 +20,10 @@ If you find my projects helpful and want to support the development of open-sour
 
 ---
 
-### 🚀 Active Projects
+### 🚀 All Projects
 | Project | Status | Description |
 | :--- | :--- | :--- |
-| **[TS Wizard](https://github.com/turkaysoftware/tswizard)** | ✅ Actively Being Developed | Advanced system management and maintenance utility. |
+| **[TS Wizard](https://github.com/turkaysoftware/tswizard)** | ✅ Actively Being Developed | Türkay Software - Software Solutions |
 | **[Astel](https://github.com/turkaysoftware/astel)** | ✅ Actively Being Developede | Modern and high-performance software solution. |
 | **[Encryphix](https://github.com/turkaysoftware/encryphix)** | ✅ Actively Being Developed | Secure data encryption and privacy management. |
 | **[Glow](https://github.com/turkaysoftware/glow)** | ✅ Actively Being Developed | Comprehensive system information and analysis tool. |
@@ -31,8 +31,6 @@ If you find my projects helpful and want to support the development of open-sour
 | **[Vimera](https://github.com/turkaysoftware/vimera)** | ✅ Actively Being Developed | Advanced system and performance optimization tool. |
 | **[Yamira](https://github.com/turkaysoftware/yamira)** | ✅ Actively Being Developed | Next-generation software architecture project. |
 | **[Zafuse](https://github.com/turkaysoftware/zafuse)** | ✨ New And Actively Being Developed | High-performance and modern data handling solution. |
-
----
 
 ---
 
