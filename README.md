@@ -1,4 +1,4 @@
-# Hi 👋, I'm Eray.
+# Hi 👋🏻, I'm Eray.
 
 An Open Source Application Developer specializing in C# and the Windows Kernel. Contrary to popular belief, we have much more experience.
 
