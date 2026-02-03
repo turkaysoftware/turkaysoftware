@@ -24,13 +24,13 @@ If you find my projects helpful and want to support the development of open-sour
 | Project | Status | Description |
 | :--- | :--- | :--- |
 | **[TS Wizard](https://github.com/turkaysoftware/tswizard)** | ✅ Actively Being Developed | Türkay Software - Software Solutions |
-| **[Astel](https://github.com/turkaysoftware/astel)** | ✅ Actively Being Developede | Modern and high-performance software solution. |
-| **[Encryphix](https://github.com/turkaysoftware/encryphix)** | ✅ Actively Being Developed | Secure data encryption and privacy management. |
-| **[Glow](https://github.com/turkaysoftware/glow)** | ✅ Actively Being Developed | Comprehensive system information and analysis tool. |
-| **[VCardix](https://github.com/turkaysoftware/vcardix)** | ✅ Actively Being Developed | Modern digital business card management system. |
-| **[Vimera](https://github.com/turkaysoftware/vimera)** | ✅ Actively Being Developed | Advanced system and performance optimization tool. |
-| **[Yamira](https://github.com/turkaysoftware/yamira)** | ✅ Actively Being Developed | Next-generation software architecture project. |
-| **[Zafuse](https://github.com/turkaysoftware/zafuse)** | ✨ New And Actively Being Developed | High-performance and modern data handling solution. |
+| **[Astel](https://github.com/turkaysoftware/astel)** | ✅ Actively Being Developede | Password Management Software |
+| **[Encryphix](https://github.com/turkaysoftware/encryphix)** | ✅ Actively Being Developed | File and Folder Encryption Software |
+| **[Glow](https://github.com/turkaysoftware/glow)** | ✅ Actively Being Developed and 🔥 Popular | System Analysis Software |
+| **[VCardix](https://github.com/turkaysoftware/vcardix)** | ✅ Actively Being Developed | vCard, CSV and JSON Contact Manager Software |
+| **[Vimera](https://github.com/turkaysoftware/vimera)** | ✅ Actively Being Developed | Hash Analysis Software |
+| **[Yamira](https://github.com/turkaysoftware/yamira)** | ✅ Actively Being Developed | USB Drive Protection Software |
+| **[Zafuse](https://github.com/turkaysoftware/zafuse)** | ✨ New And Actively Being Developed | Multi INI File Content Analysis Software |
 
 ---
 
