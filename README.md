@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm Eray.
+# Hi, I'm Eray.
 
 An Open Source Application Developer specializing in C# and the Windows Kernel. Contrary to popular belief, we have much more experience.
 
@@ -10,16 +10,14 @@ An Open Source Application Developer specializing in C# and the Windows Kernel. 
 
 ---
 
-### ☕ Support My Work
-If you find my projects helpful and want to support the development of open-source, high-performance software, you can buy me a coffee! Your contributions help me keep these tools updated, secure, and free for everyone.
+### Donate
+You can support this project by making a donation to help ensure its sustainability and the development of new features.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-DF313F?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/turkaysoftware)
 
-**Your support is the fuel behind new features and future projects!** 🚀
-
 ---
 
-### 🚀 All Projects
+### All Projects
 | Project | Status | Description |
 | :--- | :--- | :--- |
 | **[TS Wizard](https://github.com/turkaysoftware/tswizard)** | ✅ Actively Being Developed | Türkay Software - Software Solutions |
@@ -33,7 +31,7 @@ If you find my projects helpful and want to support the development of open-sour
 
 ---
 
-### 🎯 Technical Skills
+### Technical Skills
 
 - **Programming Languages**
   <p align="left">
@@ -56,13 +54,13 @@ If you find my projects helpful and want to support the development of open-sour
   </p>
 
 - **Expertise**
-  - 🖥️ **UI/UX:** Desktop (WinUI) and Web UI Development.
-  - 🔍 **SEO & Security:** Performance Optimization, Website Security, and Cloudflare Configuration.
-  - ⚙️ **Server:** Server Performance Enhancement, cPanel & Plesk Management.
+  - **UI/UX:** Desktop (WinUI) and Web UI Development.
+  - **SEO & Security:** Performance Optimization, Website Security, and Cloudflare Configuration.
+  - **Server:** Server Performance Enhancement, cPanel & Plesk Management.
 
 ---
 
 ### 🛠️ Career & Learning
-- 🌱 Currently learning **Modern Software Architectures** and **WinUI**.
-- 📫 Reach me at: **[Türkay Software - Contact](https://www.turkaysoftware.com/contact)**.
-- ⚡ Fun fact: **No matter how many patches you make, the bugs won't stop 😅.**
+- Currently learning **Modern Software Architectures** and **WinUI**.
+- Reach me at: **[Türkay Software - Contact](https://www.turkaysoftware.com/contact)**.
+- Fun fact: **No matter how many patches you make, the bugs won't stop.**
