@@ -5,7 +5,7 @@ An open-source application developer specializing in C# and the Windows operatin
 ## Donate
 You can support the project by making a donation to ensure its sustainability and the development of new features.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-DF313F?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/turkaysoftware)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-0a6628?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/turkaysoftware)
 
 ## All Projects
 | Project | Status | Description |
