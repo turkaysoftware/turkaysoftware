@@ -18,7 +18,3 @@ You can support the project by making a donation to ensure its sustainability an
 | **[Vimera](https://github.com/turkaysoftware/vimera)** | ✅ Actively Being Developed | Hash Analysis Software |
 | **[Yamira](https://github.com/turkaysoftware/yamira)** | ✅ Actively Being Developed | USB Drive Protection Software |
 | **[Zafuse](https://github.com/turkaysoftware/zafuse)** | ✅ Actively Being Developed | Multi INI File Content Analysis Software |
-
-## Contact
-
-Reach me at: **[Türkay Software - Contact](https://www.turkaysoftware.com/contact)**.
