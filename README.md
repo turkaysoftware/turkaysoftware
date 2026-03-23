@@ -8,14 +8,10 @@ An Open Source Application Developer specializing in C# and the Windows Kernel. 
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=366194&label=REPOSITORIES&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fturkaysoftware" />
 </p>
 
----
-
 ### Donate
 You can support this project by making a donation to help ensure its sustainability and the development of new features.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-DF313F?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/turkaysoftware)
-
----
 
 ### All Projects
 | Project | Status | Description |
@@ -29,38 +25,6 @@ You can support this project by making a donation to help ensure its sustainabil
 | **[Yamira](https://github.com/turkaysoftware/yamira)** | ✅ Actively Being Developed | USB Drive Protection Software |
 | **[Zafuse](https://github.com/turkaysoftware/zafuse)** | ✅ Actively Being Developed | Multi INI File Content Analysis Software |
 
----
-
-### Technical Skills
-
-- **Programming Languages**
-  <p align="left">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </p>
-
-- **Libraries & Frameworks**
-  ` .NET Framework ` ` jQuery ` ` Ajax ` ` Bootstrap ` ` WinUI `
-
-- **Developer Tools & Infrastructure**
-  <p align="left">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-    <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
-  </p>
-
-- **Expertise**
-  - **UI/UX:** Desktop (WinUI) and Web UI Development.
-  - **SEO & Security:** Performance Optimization, Website Security, and Cloudflare Configuration.
-  - **Server:** Server Performance Enhancement, cPanel & Plesk Management.
-
----
-
-### 🛠️ Career & Learning
+### Career & Learning
 - Currently learning **Modern Software Architectures** and **WinUI**.
 - Reach me at: **[Türkay Software - Contact](https://www.turkaysoftware.com/contact)**.
-- Fun fact: **No matter how many patches you make, the bugs won't stop.**
