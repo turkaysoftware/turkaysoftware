@@ -20,5 +20,5 @@ You can support the project by making a donation to ensure its sustainability an
 | **[Zafuse](https://github.com/turkaysoftware/zafuse)** | ✅ Stable | Feature-Based Updates | Multi-INI Content Analysis Software |
 
 ### Support Definitions
-* **Monthly Updates:** Projects that receive new features and improvements every month.
-* **Feature-Based Updates:** Stable projects that are updated when a new feature is added, a bug is found, or a critical update is needed.
+* **Monthly Updates:** These projects receive new features and improvements every month.
+* **Feature-Based Updates:** These projects are in a stable state. Updates are released when a new feature is added, a bug is reported, or a critical update is required.
