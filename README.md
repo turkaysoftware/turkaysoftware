@@ -8,13 +8,17 @@ You can support the project by making a donation to ensure its sustainability an
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-0a6628?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/turkaysoftware)
 
 ## All Projects
-| Project | Status | Description |
-| :--- | :--- | :--- |
-| **[TS Wizard](https://github.com/turkaysoftware/tswizard)** | ✅ Actively Being Developed | Türkay Software - Software Solutions |
-| **[Astel](https://github.com/turkaysoftware/astel)** | ✅ Actively Being Developede | Password Management Software |
-| **[Encryphix](https://github.com/turkaysoftware/encryphix)** | ✅ Actively Being Developed | File and Folder Encryption Software |
-| **[Glow](https://github.com/turkaysoftware/glow)** | 🔥 Popular ✅ Actively Being Developed | System Analysis Software |
-| **[VCardix](https://github.com/turkaysoftware/vcardix)** | ✅ Actively Being Developed | vCard, CSV and JSON Contact Manager Software |
-| **[Vimera](https://github.com/turkaysoftware/vimera)** | ✅ Actively Being Developed | Hash Analysis Software |
-| **[Yamira](https://github.com/turkaysoftware/yamira)** | ✅ Actively Being Developed | USB Drive Protection Software |
-| **[Zafuse](https://github.com/turkaysoftware/zafuse)** | ✅ Actively Being Developed | Multi INI File Content Analysis Software |
+| Project | Status | Support Cycle | Description |
+| :--- | :--- | :--- | :--- |
+| **[Glow](https://github.com/turkaysoftware/glow)** | 🔥 Popular \| ✅ Actively Developed | Monthly Updates | System Analysis Software |
+| **[TS Wizard](https://github.com/turkaysoftware/tswizard)** | ✅ Stable | Feature-Based Updates | Türkay Software - Software Solutions |
+| **[Astel](https://github.com/turkaysoftware/astel)** | ✅ Stable | Feature-Based Updates | Password Management Software |
+| **[Encryphix](https://github.com/turkaysoftware/encryphix)** | ✅ Stable | Feature-Based Updates | File & Folder Encryption Software |
+| **[VCardix](https://github.com/turkaysoftware/vcardix)** | ✅ Stable | Feature-Based Updates | vCard, CSV and JSON Contact Manager Software |
+| **[Vimera](https://github.com/turkaysoftware/vimera)** | ✅ Stable | Feature-Based Updates | Hash Analysis Software |
+| **[Yamira](https://github.com/turkaysoftware/yamira)** | ✅ Stable | Feature-Based Updates | USB Drive Protection Software |
+| **[Zafuse](https://github.com/turkaysoftware/zafuse)** | ✅ Stable | Feature-Based Updates | Multi-INI Content Analysis Software |
+
+### Support Definitions
+* **Monthly Updates:** Projects that receive new features and improvements every month.
+* **Feature-Based Updates:** Stable projects that are updated when a new feature is added, a bug is found, or a critical update is needed.
