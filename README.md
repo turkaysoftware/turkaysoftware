@@ -5,7 +5,7 @@ An open-source application developer specializing in C# and the Windows operatin
 ## All Projects
 | Project | Status | Support Cycle | Description |
 | :--- | :--- | :--- | :--- |
-| **[Glow](https://github.com/turkaysoft/glow)** | 🔥 Popular \| ✅ Actively Developed | Monthly Updates | System Analysis Software |
+| **[Glow](https://github.com/turkaysoft/glow)** | 🔥 Popular \| ✅ Actively Developed | Monthly Updates | Advanced System Analysis Software |
 | **[Astel](https://github.com/turkaysoft/astel)** | ✅ Stable | Feature-Based Updates | Password Management Software |
 | **[Encryphix](https://github.com/turkaysoft/encryphix)** | ✅ Stable | Feature-Based Updates | File & Folder Encryption Software |
 | **[VCardix](https://github.com/turkaysoft/vcardix)** | ✅ Stable | Feature-Based Updates | vCard, CSV and JSON Contact Manager Software |
